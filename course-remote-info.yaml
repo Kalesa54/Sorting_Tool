@@ -6,16 +6,22 @@ hyperskill_project:
 stages:
 - id: 239
   step: 5613
+  is_completed: true
 - id: 240
   step: 5382
+  is_completed: false
 - id: 241
   step: 5383
+  is_completed: false
 - id: 242
   step: 5384
+  is_completed: false
 - id: 243
   step: 5385
+  is_completed: false
 - id: 244
   step: 5386
+  is_completed: false
 topics:
   0:
   - title: IDE
@@ -106,10 +112,6 @@ topics:
     theory_id: 4953
   - title: Recursion basics
     theory_id: 5984
-  - title: Pseudocode basics
-    theory_id: 8228
-  - title: Complex constructions in pseudocode
-    theory_id: 8233
   - title: Introducing the first algorithm
     theory_id: 10336
   - title: The big O notation
