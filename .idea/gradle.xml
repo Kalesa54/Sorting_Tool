@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
             <option value="$PROJECT_DIR$/Problems/Count how many times a number occurs" />
             <option value="$PROJECT_DIR$/Problems/Days of week" />
+            <option value="$PROJECT_DIR$/Problems/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Problems/Difference of times" />
             <option value="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line" />
             <option value="$PROJECT_DIR$/Problems/Distance" />
@@ -34,6 +35,7 @@
             <option value="$PROJECT_DIR$/Problems/Geometric cube" />
             <option value="$PROJECT_DIR$/Problems/How many nuts each squirrel will get" />
             <option value="$PROJECT_DIR$/Problems/In a box" />
+            <option value="$PROJECT_DIR$/Problems/Leap year" />
             <option value="$PROJECT_DIR$/Problems/Liquid pressure" />
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Right Rotation" />
@@ -49,6 +51,7 @@
             <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The sum of array elements" />
             <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/Two numbers never occur next to each other" />
             <option value="$PROJECT_DIR$/Sorting Tool/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
